@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: #fff;
+}
+
+#page1{
+    width: 100%;
+    height: 100vh;
+    background-color: salmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page2{
+    width: 100%;
+    height: 100vh;
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#page3{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(228, 64, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

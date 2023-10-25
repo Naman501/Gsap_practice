@@ -1,0 +1,40 @@
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#page1 {
+    height: 100%;
+    width: 100%;
+    background-color:rgb(206, 193, 175);
+
+}
+
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+
+}
+
+h1{
+    color:blueviolet;
+    font-size: 44px;
+}
+
+h2{
+    color:aquamarine;
+    font-size: 44px;
+
+}
+
+h3{
+    color: rgb(255, 80, 223);
+    font-size: 44px;
+}
+
+h4{
+    color:teal;
+    font-size: 47px;
+}
